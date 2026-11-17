@@ -70,4 +70,3 @@ The public portfolio includes project documentation and demonstration materials;
 - [Full project report (PDF)](docs/lab_report.pdf)
 - [Hardware and technical notes](docs/setup.md)
 
-<sub>RAS 545 · Arizona State University · 2025</sub>
