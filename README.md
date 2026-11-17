@@ -1,6 +1,6 @@
 <div align="center">
 
-# Dobot Robotics Projects
+# Dobot Robotics Portfolio
 
 **Robotic manipulation · Computer vision · Autonomous planning · Human-robot interaction**
 
