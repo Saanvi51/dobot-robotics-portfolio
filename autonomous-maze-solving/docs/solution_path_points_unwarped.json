@@ -1,0 +1,85 @@
+{
+  "source_corners_json": "C:\\Users\\saanv_nx6cjgz\\OneDrive\\Documents\\CSE545Lab\\mazeTAcode\\part_2_maze_solution\\camera_capture_corners.json",
+  "source_path_json": "C:\\Users\\saanv_nx6cjgz\\OneDrive\\Documents\\CSE545Lab\\mazeTAcode\\part_2_maze_solution\\solution_path_points.json",
+  "original_image": "C:\\Users\\saanv_nx6cjgz\\OneDrive\\Documents\\CSE545Lab\\mazeTAcode\\part_2_maze_solution\\camera_capture.png",
+  "warped_image": "C:\\Users\\saanv_nx6cjgz\\OneDrive\\Documents\\CSE545Lab\\mazeTAcode\\part_2_maze_solution\\maze_warp.png",
+  "unwarped_path_pixels": [
+    [
+      714,
+      116
+    ],
+    [
+      731,
+      145
+    ],
+    [
+      712,
+      217
+    ],
+    [
+      693,
+      289
+    ],
+    [
+      767,
+      308
+    ],
+    [
+      840,
+      327
+    ],
+    [
+      821,
+      400
+    ],
+    [
+      802,
+      472
+    ],
+    [
+      783,
+      546
+    ],
+    [
+      764,
+      619
+    ],
+    [
+      837,
+      638
+    ],
+    [
+      911,
+      656
+    ],
+    [
+      892,
+      730
+    ],
+    [
+      873,
+      804
+    ],
+    [
+      947,
+      823
+    ],
+    [
+      1020,
+      841
+    ],
+    [
+      1093,
+      859
+    ],
+    [
+      1165,
+      877
+    ],
+    [
+      1162,
+      891
+    ]
+  ],
+  "notes": "Polyline points in ORIGINAL image pixel coordinates."
+}
